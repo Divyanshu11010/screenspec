@@ -1,0 +1,12 @@
+{
+  "name": "screenspec",
+  "displayName": "ScreenSpec",
+  "version": "1.0.0",
+  "description": "Turn a feature idea into an implementation-agnostic screen spec: Emmet-style layout structure plus Markdown behavior, state, and accessibility documentation. Outputs specs, never code.",
+  "author": {
+    "name": "Divyanshu Vishwakarma",
+    "url": "https://github.com/Divyanshu11010"
+  },
+  "license": "MIT",
+  "keywords": ["ui", "ux", "design", "spec", "wireframe", "emmet"]
+}
