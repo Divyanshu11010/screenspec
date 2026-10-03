@@ -5,7 +5,7 @@ engineers and other agents can build from. The output is an Emmet-style layout
 tree plus Markdown covering data, behavior, states, responsiveness, and
 accessibility. It never contains HTML, CSS, or framework code.
 
-<img width="1080" height="1080" alt="screenspec-post" src="https://github.com/user-attachments/assets/e1ca9510-1b67-4a80-963e-d4ad80a768c8" />
+<img width="512" height="512" alt="screenspec-output" src="https://github.com/user-attachments/assets/e1ca9510-1b67-4a80-963e-d4ad80a768c8" />
 
 ## Why
 
